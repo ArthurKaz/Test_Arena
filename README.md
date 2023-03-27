@@ -1,5 +1,4 @@
 # Test_Arena
-https://docs.google.com/document/d/1gGvxbR-TxS0IQUNoNX-hH_5TwyJYsS_i-6nVrOcW7CQ/edit
 Task description:
 
 Player:
