@@ -1,4 +1,6 @@
 # Test_Arena
+//this project is my test task
+
 Task description:
 
 Player:
@@ -32,3 +34,5 @@ Every 5 seconds, enemies spawn on the surface of the platform, with each spawn r
 Menu/UI:
 If the player is killed, a menu opens with a "Restart" button and the number of enemies killed.
 Additionally, a pause button and controls, indicators of life, progress bar for the "Ultimate" ability, hit indicators, etc. may be added to the screen.
+
+Also, I added saving the record of defeated enemies to the project.
